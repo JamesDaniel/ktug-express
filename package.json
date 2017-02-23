@@ -1,0 +1,28 @@
+{
+  "name": "ktug",
+  "version": "1.0.0",
+  "description": "ktug express rest api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesDaniel/ktug-express.git"
+  },
+  "keywords": [
+    "express",
+    "rest",
+    "restapi",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesDaniel/ktug-express/issues"
+  },
+  "homepage": "https://github.com/JamesDaniel/ktug-express#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
