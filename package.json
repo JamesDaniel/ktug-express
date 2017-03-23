@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/JamesDaniel/ktug-express#readme",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "restify": "^4.3.0"
   }
 }
